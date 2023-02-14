@@ -5,25 +5,11 @@ img{
     margin-right: 10px;
 }
 
-.row1{
+.row{
     
     display: flex;
     flex-direction: row;
     overflow-x: scroll;   
 }
-.row2{
-    display: flex;
-    flex-direction: row;
-    overflow-x: scroll;
-}
-.row3{
-    display: flex;
-    flex-direction: row;
-    overflow-x: scroll;
-}
-.row4{
-    display: flex;
-    flex-direction: row;
-    overflow-x: scroll;
-}
+
 /* Your CSS Code here. */
